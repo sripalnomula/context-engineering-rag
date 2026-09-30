@@ -1,0 +1,36 @@
+{
+  "exported_at": "2026-02-10T09:00:00Z",
+  "tickets": [
+    {
+      "ticket_id": "NS-1042",
+      "product": "Orion X2",
+      "region": "Europe",
+      "severity": "high",
+      "symptoms": ["E17 after heavy rain", "intermittent power reduction"],
+      "diagnosis": "Moisture found in motor temperature sensor connector J4.",
+      "resolution": "Dried connector, replaced seal, applied dielectric grease, and cleared E17.",
+      "status": "resolved"
+    },
+    {
+      "ticket_id": "NS-1068",
+      "product": "Orion X2",
+      "region": "North America",
+      "severity": "medium",
+      "symptoms": ["E23 at startup", "battery percentage unavailable"],
+      "diagnosis": "CAN harness at the battery was not fully seated after service.",
+      "resolution": "Reseated and latched the CAN harness; completed ten successful restarts.",
+      "status": "resolved"
+    },
+    {
+      "ticket_id": "NS-1099",
+      "product": "Lyra Battery",
+      "region": "Asia Pacific",
+      "severity": "critical",
+      "symptoms": ["pack temperature rose during charging", "sweet chemical odor"],
+      "diagnosis": "Suspected internal cell damage; pack quarantined for engineering analysis.",
+      "resolution": "Charging stopped, area evacuated, pack moved by trained response team to isolation container.",
+      "status": "investigating"
+    }
+  ]
+}
+

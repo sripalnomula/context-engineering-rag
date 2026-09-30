@@ -1,0 +1,20 @@
+NORTHSTAR MOBILITY — OPERATIONS REVIEW
+Date: 2026-02-03
+Document ID: ops-minutes-2026-02-03
+
+Attendees: Priya Raman (Operations), Elena Ortiz (Finance), Marcus Chen (Service), Jo Bell (Security)
+
+1. SHIPPING PILOT
+Priya confirmed that the Portland micro-fulfillment pilot begins March 2. During the first four weeks, only Orion X2 spare parts will ship from Portland. Finished scooters remain at the Reno distribution center. The pilot success threshold is a 20% reduction in median west-coast parts delivery time without raising damage claims above 1.5%.
+
+2. WARRANTY CHANGE
+Marcus proposed extending the Lyra Battery warranty from 24 to 30 months. No change was approved. Legal will review regional implications and return with a recommendation by March 18. The current warranty therefore remains 24 months.
+
+3. FINANCIAL DATA CAUTION
+Elena reminded the team that 2025-Q4 figures are provisional until the audit closes. Public-facing material must use the 2025-Q3 audited numbers or clearly label Q4 figures as provisional.
+
+4. SECURITY ACTION
+Jo owns the rollout of phishing-resistant security keys to Finance. Enrollment must be complete by April 10. The fallback SMS factor will be disabled for Finance on April 17.
+
+Decisions: approve Portland parts pilot; do not change battery warranty yet; enforce provisional label on Q4 figures.
+

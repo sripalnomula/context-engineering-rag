@@ -1,0 +1,16 @@
+chromadb>=1.1,<2
+openai>=2,<3
+python-dotenv>=1.0,<2
+beautifulsoup4>=4.12,<5
+pypdf>=5,<7
+reportlab>=4,<5
+numpy>=2,<3
+pandas>=2.2,<4
+matplotlib>=3.9,<4
+seaborn>=0.13,<1
+nbformat>=5.10,<6
+jupyterlab>=4.3,<5
+ipykernel>=6.29,<8
+
+# Optional local embedding fallback:
+# sentence-transformers>=3.3,<6

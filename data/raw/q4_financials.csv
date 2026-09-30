@@ -1,0 +1,11 @@
+quarter,region,product,revenue_usd,cost_usd,units,source_status
+2025-Q3,North America,Orion Scooter,4200000,2814000,12000,audited
+2025-Q3,Europe,Orion Scooter,3150000,2268000,9000,audited
+2025-Q3,North America,Lyra Battery,1800000,1080000,6000,audited
+2025-Q3,Europe,Lyra Battery,1440000,921600,4800,audited
+2025-Q4,North America,Orion Scooter,5100000,3264000,15000,provisional
+2025-Q4,Europe,Orion Scooter,3600000,2520000,10000,provisional
+2025-Q4,North America,Lyra Battery,2250000,1305000,7500,provisional
+2025-Q4,Europe,Lyra Battery,1650000,990000,5500,provisional
+2025-Q4,Asia Pacific,Lyra Battery,900000,603000,3000,provisional
+

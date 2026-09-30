@@ -1,0 +1,12 @@
+.venv/
+.env
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+artifacts/chroma/*
+artifacts/reports/*
+!artifacts/chroma/.gitkeep
+!artifacts/reports/.gitkeep
+data/raw/northstar_safety_bulletin.pdf
+.DS_Store
+output/
